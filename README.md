@@ -35,7 +35,7 @@ The dataset comprises data from Tibi Foods' operations on Chowdeck, an online pl
 - Identified a correlation between longer delivery times and higher order cancellations, highlighting the importance of optimizing delivery processes to reduce wait times.
 - Recommended implementing strategies to streamline order processing, improve delivery efficiency, and enhance customer satisfaction based on the key findings from the EDA.
 
-Through EDA, we gained valuable insights into Tibi Foods' business performance and identified areas for optimization to drive revenue growth and operational excellence.
+Through EDA, I gained valuable insights into Tibi Foods' business performance and identified areas for optimization to drive revenue growth and operational excellence.
 
 
 
