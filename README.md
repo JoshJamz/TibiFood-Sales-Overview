@@ -2,19 +2,19 @@
 ## Table of Content 
 
 
-- [Project Overview](project-overview)
-- [Description](description)
-- [Data Source](data-source)
-- [Data Analysis](data-analysis)
-- [Objective](objective)
-- [Approach](approach)
-- [Exploratory Data Analysis (EDA) and Key Finding](exploratory-data-analysis-(EDA)-and-key-finding)
-- [Conclusion](Conclusion)
+- [Project Overview](#project-overview)
+- [Description](#description)
+- [Data Source](#data-source)
+- [Data Analysis](#data-analysis)
+- [Objectives](#objectives)
+- [Approach](#approach)
+- [Exploratory Data Analysis EDA and Key Findings](#exploratory-data-analysis-eda-and-key-findings)
+- [Conclusion](#conclusion)
 
 
 ### Project overview  
 
-**Description:**
+## Description
 This project involves conducting a comprehensive data analysis and business review for Tibi Foods, a fictional quick service restaurant chain store operating in Nigeria. The analysis focuses on extracting meaningful insights from a dataset containing information on successful and rejected orders from the last two quarters.
 
 ## Data Source
@@ -84,19 +84,19 @@ FROM
      [Tibi Food Dataset];
 ```
 
-### Objectives:
+### Objectives
 
 - Provide an overview of Tibi Foods' current business status.
 - Evaluate Tibi Foods' performance in Q4 2023 relative to Q3 2023.
 - Offer recommendations to help Tibi Foods improve and grow their revenue based on the insights derived from the dataset.
 
-### Approach:
+### Approach
 
 - Data Cleaning: Utilized MS Excel for data cleaning tasks, including removing duplicates, handling missing values, and formatting data for analysis.
 - Data Exploration: Used SQL queries to interrogate the cleaned dataset and explore various metrics such as GMV (Gross Merchandise Value), order count, delivery time,pickup time, wait time, successful delivery percentage, and more.
 - Visualization: Created clear and compelling visualizations using Power BI to present the findings of the analysis effectively. These visualizations includes interactive dashboards and reports to provide stakeholders with actionable insights.
 
-### Exploratory Data Analysis (EDA) and Key Findings:
+### Exploratory Data Analysis EDA and Key Findings
 
 - Conducted comprehensive EDA using SQL queries and Excel to explore various aspects of Tibi Foods' business operations.
 - Analyzed  Total Order, order creation times, average ordered value, Total Revenue, delivery times, acceptance times, pick-up times,wait time and other relevant metrics to understand the overall performance.
@@ -114,6 +114,6 @@ Through EDA, I gained valuable insights into Tibi Foods' business performance an
 ### Result/Findings 
 
 
-### Conclusion:
+### Conclusion
 Through this project, we aim to provide Tibi Foods with actionable insights to optimize their operations and drive revenue growth. By leveraging data-driven decision-making, Tibi Foods can enhance customer satisfaction, streamline processes, and achieve sustainable business success.
 
