@@ -1,5 +1,16 @@
 # TibiFood-Sales-Overview
-## Sales Analysis 
+## Table of Content 
+
+
+- [Project Overview](project-overview)
+- [Description](description)
+- [Data Source](data-source)
+- [Data Analysis](data-analysis)
+- [Objective](objective)
+- [Approach](approach)
+- [Exploratory Data Analysis (EDA) and Key Finding](exploratory-data-analysis-(EDA)-and-key-finding)
+- [Conclusion](Conclusion)
+
 
 ### Project overview  
 
