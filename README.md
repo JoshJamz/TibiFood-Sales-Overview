@@ -3,7 +3,6 @@
 
 
 - [Project Overview](#project-overview)
-- [Description](#description)
 - [Data Source](#data-source)
 - [Data Analysis](#data-analysis)
 - [Objectives](#objectives)
@@ -12,9 +11,8 @@
 - [Conclusion](#conclusion)
 
 
-### Project overview  
+## Project overview  
 
-## Description
 This project involves conducting a comprehensive data analysis and business review for Tibi Foods, a fictional quick service restaurant chain store operating in Nigeria. The analysis focuses on extracting meaningful insights from a dataset containing information on successful and rejected orders from the last two quarters.
 
 ## Data Source
