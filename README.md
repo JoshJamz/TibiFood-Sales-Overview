@@ -17,41 +17,7 @@
 This project involves conducting a comprehensive data analysis and business review for Tibi Foods, a fictional quick service restaurant chain store operating in Nigeria. The analysis focuses on extracting meaningful insights from a dataset containing information on successful and rejected orders from the last two quarters.
 
 
-
 ![Tibi Food DB 1](https://github.com/JoshJamz/TibiFood-Sales-Overview/assets/139321473/e8ad3e86-917b-41b2-905f-96dbd4b32586)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Data Source
