@@ -5,27 +5,27 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools) 
-- [Data Analysis](#data-analysis)
 - [Project Objectives](#project-objectives)
 - [Approach](#approach)
 - [Exploratory Data Analysis EDA and Key Findings](#exploratory-data-analysis-eda-and-key-findings)
+- [Data Analysis](#data-analysis)
 - [Conclusion](#conclusion)
 
 
-## Project overview  
+### Project overview  
 
 This project involves conducting a comprehensive data analysis and business review for Tibi Foods, a fictional quick service restaurant chain store operating in Nigeria. The analysis focuses on extracting meaningful insights from a dataset containing information on successful and rejected orders from the last two quarters.
 
-## Data Source
+### Data Source
 
 The dataset comprises data from Tibi Foods' operations on Chowdeck, an online platform for ordering meals. It includes details such as order creation times, delivery times, acceptance times, pick-up times, and other relevant metrics. Please note that this dataset is fabricated for the purpose of this analysis and does not represent real order data.
 
-## Tools 
+### Tools 
 - Microsoft Excel
 - SQL
 - Power Bi
 
-## Project Objectives
+### Project Objectives
 
 - Provide an overview of Tibi Foods' current business status.
 - Evaluate Tibi Foods' performance in Q4 2023 relative to Q3 2023.
@@ -33,11 +33,7 @@ The dataset comprises data from Tibi Foods' operations on Chowdeck, an online pl
 
 ### Approach
 
-- Data Cleaning:
-      - Utilized MS Excel for data cleaning tasks
-      - Including removing duplicates
-      - Handling missing values
-      - formatting data for analysis.
+- Data Cleaning: Utilized MS Excel for data cleaning tasks, including removing duplicates,handling missing values and formatting data for analysis.
 - Data Exploration: Used SQL queries to interrogate the cleaned dataset and explore various metrics such as GMV (Gross Merchandise Value), order count, delivery time,pickup time, wait time, successful delivery percentage, and more.
 - Visualization: Created clear and compelling visualizations using Power BI to present the findings of the analysis effectively. These visualizations includes interactive dashboards and reports to provide stakeholders with actionable insights.
 
@@ -56,7 +52,7 @@ The dataset comprises data from Tibi Foods' operations on Chowdeck, an online pl
 
 Through EDA, I gained valuable insights into Tibi Foods' business performance and identified areas for optimization to drive revenue growth and operational excellence.
 
-## Data Analysis 
+### Data Analysis 
 ```  Sql
 Select *
 From [Tibi Food Dataset]
