@@ -16,6 +16,10 @@
 
 This project involves conducting a comprehensive data analysis and business review for Tibi Foods, a fictional quick service restaurant chain store operating in Nigeria. The analysis focuses on extracting meaningful insights from a dataset containing information on successful and rejected orders from the last two quarters.
 
+![Tibi Food DB 1](https://github.com/JoshJamz/TibiFood-Sales-Overview/assets/139321473/e8ad3e86-917b-41b2-905f-96dbd4b32586)
+
+![Tibi Food DB 2](https://github.com/JoshJamz/TibiFood-Sales-Overview/assets/139321473/b9f243f0-768d-4d1c-8a25-7308fb203afd)
+
 ### Data Source
 
 The dataset comprises data from Tibi Foods' operations on Chowdeck, an online platform for ordering meals. It includes details such as order creation times, delivery times, acceptance times, pick-up times, and other relevant metrics. Please note that this dataset is fabricated for the purpose of this analysis and does not represent real order data.
