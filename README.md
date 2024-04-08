@@ -122,5 +122,5 @@ FROM
 
 
 ### Conclusion
-Through this project, we aim to provide Tibi Foods with actionable insights to optimize their operations and drive revenue growth. By leveraging data-driven decision-making, Tibi Foods can enhance customer satisfaction, streamline processes, and achieve sustainable business success.
+Through this project, aim to provide Tibi Foods with actionable insights to optimize operations and drive revenue growth. By leveraging data-driven decision-making, Tibi Foods can enhance customer satisfaction, streamline processes, and achieve sustainable business success.
 
